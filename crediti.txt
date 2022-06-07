@@ -1,0 +1,6 @@
+@brief Progetto Battleship (CLI).
+@brief Laboratorio di Informatica @ Uniba Informatica A-L 21-22.
+
+@author Caldarulo Bernardo
+@author Chiarito Pierluigi
+@author Leonetti Davide

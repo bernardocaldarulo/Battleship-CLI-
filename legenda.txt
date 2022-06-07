@@ -1,0 +1,8 @@
+LEGENDA
+'_'     rappresenta il contenuto di un quadretto vuoto delle tabelle.
+'N'     rappresenta il contenuto di un quadretto occupato da una nave.
+'*'     rappresenta il contenuto di un quadretto vuoto una volta colpito.
+'x'     rappresenta il contenuto di un quadretto colpito.
+'X'     rappresenta il contenuto di un quadretto colpito la cui nave e' interamente affondata.
+'R'     rappresenta il contenuto di un quadretto scansionato con esito positivo della tabella mosse.
+'/'     rappresenta il contenuto di un quadretto scansionato con esito negativo della tabella mosse.

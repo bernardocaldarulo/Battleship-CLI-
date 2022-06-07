@@ -1,0 +1,21 @@
+DESCRIZIONE
+Ogni giocatore riceve una tavola con due griglie. Una delle griglie contiene le navi del giocatore e l'altra e' usata per registrare i colpi sparati e le navi di un avversario e l'esito dei colpi.
+L'obiettivo del gioco e' quello di affondare tutte le navi dell'avversario indovinando correttamente la loro posizione.
+
+REGOLE
+- I giocatori sono due.
+- Ogni giocatore gestisce due tabelle, una da difendere e una che registra le mosse effettuate sul campo di gioco avversario.
+- La dimensione delle tabelle di gioco e' 16x16.
+
+- La dimensione delle navi va da da 1 a 5.
+- Il numero di navi che ciascun giocatore posiziona sono 15. 1 nave da 5 caselle, 2 navi da 4 caselle, 3 navi da 3 caselle, 4 navi da 2 caselle e 5 navi da 1 casella.
+- Una nave occupa un certo numero di quadretti adiacenti in linea retta (orizzontale o verticale) sulla tabella.
+- Due navi non possono toccarsi. Una volta posizionate le navi, il gioco procede a turni.
+
+- Il colpo semplice e' usato per colpire un solo quadretto della tabella dell'avversario.
+- Il colpo a largo raggio puo' essere usato al massimo 3 volte per partita ed e' usato a colpire una cella specificata e l'intorno di raggio 1 da essa, per un totale di 9 caselle.
+- Il bombardamento aereo puo' essere usato dal giocatore solo dopo 10 turni, una sola volta per partita. Ha effetto su una riga o su una colonna.
+- La scansione radar ha un massimo di 3 utilizzi e scopre se nella cella specificata e nell'intorno di raggio 1 da essa ci sono delle navi (o parti di esse).
+
+--> PREMI 1 PER CONTINUARE A CONSULTARE L'HELP
+<-- PREMI 0 PER TORNARE AL MENU PRINCIPALE
